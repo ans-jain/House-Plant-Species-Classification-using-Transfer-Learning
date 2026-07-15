@@ -95,7 +95,7 @@ model-final.ipynb
 
 ## Author
 
-**Harshit**
+**Anshika**
 
 ---
 
