@@ -177,6 +177,3 @@ The notebook provides:
 
 **Anshika Jain**
 
-LinkedIn: https://www.linkedin.com/in/anshika-jain05
-
-GitHub: https://github.com/ans-jain
